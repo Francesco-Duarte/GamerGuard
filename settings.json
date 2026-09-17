@@ -1,0 +1,53 @@
+{
+  "daily_limit": 57,
+  "health_interval": 12,
+  "break_reminder": 7,
+  "notifications_enabled": true,
+  "sound_alerts": true,
+  "games": [
+    "valorant.exe",
+    "Minecraft.exe",
+    "HD-Player.exe",
+    "plato.exe"
+  ],
+  "users": {
+    "student1": {
+      "daily_limit": 57,
+      "health_interval": 12,
+      "break_reminder": 7,
+      "notifications_enabled": true,
+      "sound_alerts": true,
+      "games": [
+        "valorant.exe",
+        "Minecraft.exe",
+        "HD-Player.exe",
+        "plato.exe"
+      ]
+    },
+    "student2": {
+      "daily_limit": 50,
+      "health_interval": 15,
+      "break_reminder": 5,
+      "notifications_enabled": true,
+      "sound_alerts": true,
+      "games": [
+        "valorant.exe",
+        "Minecraft.exe",
+        "RobloxPlayerBeta.exe"
+      ]
+    },
+    "fpd": {
+      "daily_limit": 57,
+      "health_interval": 12,
+      "break_reminder": 7,
+      "notifications_enabled": true,
+      "sound_alerts": true,
+      "games": [
+        "valorant.exe",
+        "Minecraft.exe",
+        "HD-Player.exe",
+        "plato.exe"
+      ]
+    }
+  }
+}
